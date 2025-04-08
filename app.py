@@ -214,11 +214,10 @@ st.markdown("""
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <div class="footer">
-        <p>Developed by Anubhav Raj</p>
+        <p>Developed by Apoorva Nayak</p>
         <p class="social-icons">
-            <a href="https://github.com/Anubhx" target="_blank"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com/in/anubhax/" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="mailto:anubhav0427@gmail.com"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/Apoorvagit17" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="mailto:nayakapoorva8@gmail.com"><i class="fas fa-envelope"></i></a>
         </p>
     </div>
 """, unsafe_allow_html=True)
